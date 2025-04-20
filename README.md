@@ -1,1 +1,1 @@
-# oceanis-bs
+Projeto voltado para estudo do BootStrap.
